@@ -6,5 +6,5 @@
 
 Лінк на прототип UX/UI у Figma: https://www.figma.com/design/H4bvKre2ilzzhkKZPPmu5W/Mini_Issue_Tracker_UX_UI?node-id=0-1&t=GrqLDrzHIYbUgLZh-1
 
-Лінк на відео захисту: 
+Лінк на відео захисту: https://www.youtube.com/watch?v=cawrQCJmDtA
 
